@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-size: 24px;
 }
 
 .App-logo {
@@ -11,6 +12,24 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+
+.App input {
+  text-align: center;
+  font-size: 24px;
+}
+
+button {
+  padding: 15px;
+  font-size: 24px;
+}
+
+.green {
+  color: rgb(40, 216, 40);
+}
+
+.red {
+  color: rgb(255, 15, 35);
 }
 
 .App-header {
